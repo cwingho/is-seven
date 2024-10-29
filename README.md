@@ -61,10 +61,6 @@ is_seven(7.00001)    # False
 # String conversion
 is_seven("7")        # True
 is_seven("seven")    # True
-
-# Special number handling
-is_seven(float('7')) # True
-is_seven(7+0j)       # True
 ```
 
 ## API Reference
@@ -78,7 +74,6 @@ Parameters:
   - Integer
   - Float
   - String (will attempt conversion)
-  - Complex number (real part only)
 
 Returns:
 - `bool`: `True` if seven, `False` otherwise
