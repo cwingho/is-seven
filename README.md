@@ -110,4 +110,4 @@ Special thanks to the number 7 for being consistently seven throughout this proj
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=cwingho/is-seven&type=Date)](https://star-history.com/#cwingho/is-seven&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=cwingho/is-seven&type=Timeline)](https://star-history.com/#cwingho/is-seven&Timeline)
