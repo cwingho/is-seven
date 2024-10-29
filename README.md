@@ -107,3 +107,7 @@ A: We're considering adding support for:
 
 ## Acknowledgements
 Special thanks to the number 7 for being consistently seven throughout this project's development.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=cwingho/is-seven&type=Date)](https://star-history.com/#cwingho/is-seven&Date)
