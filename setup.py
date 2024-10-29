@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="is_seven",
+    name="is-seven",
     version="0.1.0",
     packages=find_packages(),
     description="A library to check if a number is seven",
@@ -9,7 +9,7 @@ setup(
     long_description_content_type="text/markdown",
     author="Brian Chan",
     author_email="chanwingho94@gmail.com",
-    url="https://github.com/cwingho/is_seven",
+    url="https://github.com/cwingho/is-seven",
     classifiers=[
         "Development Status :: 5 - Production/Stable",
         "Intended Audience :: Developers",
