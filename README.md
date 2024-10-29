@@ -44,23 +44,15 @@ from is_seven import is_seven
 
 # Returns True
 print(is_seven(7))
+print(is_seven(7.0))
+print(is_seven("7"))
 
 # Returns False
 print(is_seven(8))
-```
-
-### Advanced Features
-
-The library includes several advanced features for edge cases:
-
-```python
-# Floating point handling
-is_seven(7.0)        # True
-is_seven(7.00001)    # False
-
-# String conversion
-is_seven("7")        # True
-is_seven("seven")    # True
+print(is_seven(-7))
+print(is_seven("eight"))
+print(is_seven("7.1"))
+print(is_seven(None))
 ```
 
 ## API Reference
