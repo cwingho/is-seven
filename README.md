@@ -97,7 +97,7 @@ Please make sure to update tests as appropriate.
 **Q: Why not just use `==`?**  
 A: While `==` works for simple cases, `is_seven()` handles edge cases and provides semantic clarity to your code.
 
-**Q: What's next for is_seven?**  
+**Q: What's next for is-seven?**  
 A: We're considering adding support for:
 - Roman numeral VII
 - Base-7 representations
